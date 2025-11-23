@@ -48,7 +48,8 @@ mlmonitor/
 1. Clonar repositório
 
 
-git clone https://github.com/seu_usuario/mlmonitor.git
+git clone https://github.com/billboy-sys/ML-Monitor.git
+
 cd mlmonitor
 
 
